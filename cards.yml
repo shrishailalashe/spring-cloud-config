@@ -1,0 +1,11 @@
+build:
+  version: "1.0.3"
+
+cards:
+  message: "Welcome to cards"
+  contactDetails:
+    name: "Test Developer"
+    email: "test@gmail.com"
+  onCallSupport:
+    - (123)456-7890
+    - (456)789-1230

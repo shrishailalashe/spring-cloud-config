@@ -1,0 +1,11 @@
+build:
+  version: "1.2.3"
+
+cards:
+  message: "Welcome PROD cards"
+  contactDetails:
+    name: "Test PROD Developer"
+    email: "testprod@gmail.com"
+  onCallSupport:
+    - (123)456-7899
+    - (456)789-1239

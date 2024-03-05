@@ -1,0 +1,11 @@
+build:
+  version: "1.0.0"
+
+accounts:
+  message: "Welcome QA accounts"
+  contactDetails:
+    name: "Test QA Developer"
+    email: "testqa@gmail.com"
+  onCallSupport:
+    - (123)456-7891
+    - (456)789-1231

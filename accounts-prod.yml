@@ -1,0 +1,11 @@
+build:
+  version: "2.0.0"
+
+accounts:
+  message: "Welcome PROD accounts"
+  contactDetails:
+    name: "Test PROD Developer"
+    email: "testprod@gmail.com"
+  onCallSupport:
+    - (123)456-7899
+    - (456)789-1239
