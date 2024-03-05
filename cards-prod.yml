@@ -5,7 +5,7 @@ cards:
   message: "Welcome PROD cards"
   contactDetails:
     name: "Test PROD Developer"
-    email: "testprod@gmail.com"
+    email: "{cipher}00efe05a6a1b939d1fc79fcdccf738f0bb5554ea0792157ef3ddb8c48ba2f910ca47720f352c66b94c89675b02ad2ae1"
   onCallSupport:
     - (123)456-7899
     - (456)789-1239
