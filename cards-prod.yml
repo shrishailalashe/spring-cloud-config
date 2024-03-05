@@ -2,7 +2,7 @@ build:
   version: "1.2.4"
 
 cards:
-  message: "Welcome PROD cards"
+  message: "Welcome PRODUCTION cards"
   contactDetails:
     name: "Test PROD Developer"
     email: "{cipher}e692f07dfe8e6b3831d2b557e3ed4d76b8816bca135e19568ffe9c45ee4cf086663ee3c1fb999c02795a0b1c61e903c3"
